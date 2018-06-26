@@ -1,2 +1,2 @@
 # learning-room
-a repository for learn
+a repository for learning about Github
